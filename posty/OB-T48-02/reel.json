@@ -1,0 +1,32 @@
+{
+  "tema": "OSVČ",
+  "stitek": "Modelová situace",
+  "snimky": [
+    {
+      "nadpis": "Petr, 34, truhlář. Zlomí si ruku a dva měsíce nemůže do dílny.",
+      "text": "Co se stane s jeho příjmem?",
+      "sekundy": 3.5
+    },
+    {
+      "nadpis": "Příjem je nula.",
+      "text": "Zakázky stojí. Nájem dílny, splátky a účty doma běží dál.",
+      "sekundy": 3.0
+    },
+    {
+      "nadpis": "Nemocenská? Ne automaticky.",
+      "text": "Pro OSVČ je nemocenské pojištění dobrovolné. Petr si ho nikdy nezařídil.",
+      "sekundy": 3.5
+    },
+    {
+      "nadpis": "Ověřte si:",
+      "text": "Platíte si nemocenské?\nMáte pojištění pracovní neschopnosti?\nOd kterého dne vyplácí?",
+      "sekundy": 3.5
+    },
+    {
+      "nadpis": "Z čeho byste žili vy?",
+      "text": "Napište mi přes formulář v profilu. Ozvu se do 48 hodin.",
+      "sekundy": 3.0
+    }
+  ],
+  "poznamka": "Postava je smyšlená. Obecná informace, ne doporučení."
+}
